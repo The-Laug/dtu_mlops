@@ -1,6 +1,5 @@
 import os
 import sys
-import random
 from invoke import task
 
 CURRENT_DIR = os.getcwd()
